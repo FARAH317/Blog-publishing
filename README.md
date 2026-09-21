@@ -56,7 +56,7 @@ VITE_API_URL=http://localhost:5000/api
 | POST | /api/posts/:postId/comments | Yes | Add comment |
 | DELETE | /api/comments/:commentId | Yes (owner) | Delete comment |
 ## Live Demo
-_To be added after deployment._
+(https://blogpublishing.vercel.app/)
 
 ## Author
 Farah — [GitHub](https://github.com/FARAH317)
